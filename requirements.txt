@@ -1,0 +1,8 @@
+pefile
+dnfile
+lief
+capstone
+pycryptodome
+reportlab
+pdfplumber
+cryptography
